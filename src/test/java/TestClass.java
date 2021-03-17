@@ -6,6 +6,7 @@ public class TestClass {
 
     private static MainClass uc;
 
+
     @BeforeClass
     public static void setup() {
         uc =new MainClass();
