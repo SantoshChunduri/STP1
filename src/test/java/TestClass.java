@@ -19,7 +19,7 @@ public class TestClass {
 
     @Test
     public void test_lcm_calculator() {
-        assertEquals(21, stp.lcm_calculator(5,4));
+        assertEquals(20, stp.lcm_calculator(5,4));
     }
 
 
