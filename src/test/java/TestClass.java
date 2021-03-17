@@ -17,9 +17,5 @@ public class TestClass {
         assertEquals(30, stp.hcf_calculator(2,3));
     }
 
-    @Test
-    public void test_lcm_calculator() {
-        assertEquals(10,stp.lcm_calculator(5,4));
-    }
 
 }
