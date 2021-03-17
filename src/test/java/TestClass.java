@@ -2,13 +2,13 @@ import static org.junit.Assert.*;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-public class TestUnitConverter {
+public class TestClass {
 
-    private static UnitConverter uc;
+    private static MainClass uc;
 
     @BeforeClass
     public static void setup() {
-        uc =new UnitConverter();
+        uc =new MainClass();
     }
 
     @Test

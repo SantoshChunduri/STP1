@@ -1,6 +1,6 @@
-public class UnitConverter {
+public class MainClass {
 
-    public UnitConverter(){
+    public MainClass(){
 
     }
     public int distace_converter(int km){
