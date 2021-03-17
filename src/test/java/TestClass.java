@@ -14,7 +14,7 @@ public class TestClass {
     @Test
     //test case by Santosh chunduri
     public void test_hcf_calculator() {
-        assertEquals(30, stp.hcf_calculator(2,3));
+        assertEquals(1, stp.hcf_calculator(2,3));
     }
 
 
